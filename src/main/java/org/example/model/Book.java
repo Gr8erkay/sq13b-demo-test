@@ -51,7 +51,7 @@ public class Book {
     }
 
     public String getNoOfPages() {
-        return noOfPages;
+        return noOfPages + 1;
     }
 
     public void setNoOfPages(String noOfPages) {
